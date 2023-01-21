@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T00:00:32.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4Z3I-0aFp6yW6m7oqoOm" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T09:09:23.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_g_Wtwdu2DcLiifQ50Rf" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1635" dy="1491" grid="1" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="1387" grid="1" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="Five screen - feedbacks" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="130" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Hfo6Y_Y4bfAow9-baKy7-2" value="Six screen - benefits" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+        <mxCell id="Hfo6Y_Y4bfAow9-baKy7-2" value="Six screen - benefits" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="156" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="x5mCNuAGcQD91CnNdfod-5" value="Contact form&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="x5mCNuAGcQD91CnNdfod-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Must have in project:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- top header menu;&lt;br&gt;- slider projects;&lt;br&gt;- light / dark theme;&lt;br&gt;- two language support;&lt;br&gt;- contact&amp;nbsp; form;&lt;br&gt;- social;&lt;br&gt;- cv downloading;&lt;br&gt;- mobile version;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=default;gradientColor=none;strokeWidth=2;perimeterSpacing=1;glass=0;shadow=0;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="-378" width="342" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="Hfo6Y_Y4bfAow9-baKy7-1" value="UI KIT:&lt;br&gt;&lt;ul&gt;&lt;li&gt;main color: #110b1f,&amp;nbsp;120d1f,&amp;nbsp;130c25&lt;/li&gt;&lt;li&gt;other color: #008aff&lt;/li&gt;&lt;li&gt;fonts: &lt;span style=&quot;font-weight: 400;&quot;&gt;Poppins (nunito sans, sans-serif);&amp;nbsp;&lt;/span&gt;h1 - 40px fw - 600, lh 1.5&lt;/li&gt;&lt;li&gt;social &amp;amp; networking logo: &lt;span style=&quot;font-weight: 400;&quot;&gt;github / telegram / whatsapp/ twitter / email / instagram / phone&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;skills img&lt;/li&gt;&lt;li&gt;technology&amp;nbsp; logo&lt;/li&gt;&lt;li&gt;main photo&lt;/li&gt;&lt;li&gt;feedback avatar&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontStyle=1;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;spacingLeft=6;spacingBottom=0;horizontal=1;verticalAlign=top;spacingTop=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Hfo6Y_Y4bfAow9-baKy7-1" value="UI KIT:&lt;br&gt;&lt;ul&gt;&lt;li&gt;main color: #120d1f&lt;/li&gt;&lt;li&gt;alternative color: #2999fc&lt;/li&gt;&lt;li&gt;fonts: &lt;span style=&quot;font-weight: 400;&quot;&gt;Poppins (nunito sans, sans-serif);&amp;nbsp;&lt;/span&gt;h1 - 40px fw - 600, lh 1.5&lt;/li&gt;&lt;li&gt;social &amp;amp; networking logo: &lt;span style=&quot;font-weight: 400;&quot;&gt;github / telegram / whatsapp/ twitter / email / instagram / phone&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;skills img&lt;/li&gt;&lt;li&gt;technology&amp;nbsp; logo&lt;/li&gt;&lt;li&gt;main photo&lt;/li&gt;&lt;li&gt;feedback avatar&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontStyle=1;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;spacingLeft=6;spacingBottom=0;horizontal=1;verticalAlign=top;spacingTop=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="486" y="-504" width="396" height="324" as="geometry" />
         </mxCell>
       </root>
